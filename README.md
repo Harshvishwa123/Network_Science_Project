@@ -4,12 +4,13 @@
 **Institute**: IIIT Delhi  
 **Course Project**: Network Science  
 **Email**: dhairya22157@iiitd.ac.in, harsh22205@iiitd.ac.in, divyansh22178@iiitd.ac.in  
-
+[🔗 Click here to view the paper](https://drive.google.com/file/d/1Rp1ELDCPaN8nZvn1cJFgETr0P3g6fG3w/view?usp=sharing)
 ---
 
 ## 🧠 Project Overview
 
 This project explores a real-world **co-purchase network** from Amazon using **network science techniques**. Each node represents a product (primarily books/music), and each edge represents a co-purchase relationship.
+[🔗 Click here to view the paper](https://docs.google.com/presentation/d/11dlpZXN0EXALJZ2M0F_Ia3bwvlW44XOP/edit?usp=sharing&ouid=108049351732374820521&rtpof=true&sd=true)
 
 ### 🔍 Key Goals
 
