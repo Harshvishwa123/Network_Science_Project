@@ -10,7 +10,7 @@
 ## 🧠 Project Overview
 
 This project explores a real-world **co-purchase network** from Amazon using **network science techniques**. Each node represents a product (primarily books/music), and each edge represents a co-purchase relationship.
-[🔗 Click here to view the paper](https://docs.google.com/presentation/d/11dlpZXN0EXALJZ2M0F_Ia3bwvlW44XOP/edit?usp=sharing&ouid=108049351732374820521&rtpof=true&sd=true)
+[🔗 Click here to view Overview](https://docs.google.com/presentation/d/11dlpZXN0EXALJZ2M0F_Ia3bwvlW44XOP/edit?usp=sharing&ouid=108049351732374820521&rtpof=true&sd=true)
 
 ### 🔍 Key Goals
 
